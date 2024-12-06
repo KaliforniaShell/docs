@@ -257,7 +257,7 @@
     "flat": "^6.0.1",
     "github-slugger": "^2.0.0",
     "glob": "11.0.0",
-    "got": "^14.4.2",
+    "got": "^14.4.4",
     "gray-matter": "^4.0.3",
     "hast-util-from-parse5": "^8.0.1",
     "hast-util-to-string": "^2.0.0",
@@ -285,7 +285,7 @@
     "mdast-util-to-string": "^4.0.0",
     "morgan": "^1.10.0",
     "next": "14.2.15",
-    "ora": "^8.0.1",
+    "ora": "^8.1.1",
     "parse5": "7.2.1",
     "quick-lru": "7.0.0",
     "react": "18.3.1",
@@ -308,8 +308,7 @@
     "styled-components": "^5.3.11",
     "swr": "^2.2.4",
     "tcp-port-used": "1.0.2",
-    "tsx": "4.19.0",
-    "unified": "^11.0.5",
+
     "unist-util-visit": "^5.0.0",
     "url-template": "^3.1.1",
     "walk-sync": "^3.0.0"
